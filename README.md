@@ -1,0 +1,2 @@
+# TesseractTest_SRC
+利用Tesseract做的拍照翻译软件
